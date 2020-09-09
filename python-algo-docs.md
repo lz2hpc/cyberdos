@@ -29,3 +29,5 @@ https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
     python3 -V
     sudo apt install -y python3-pip
     sudo pip3 install cmake
+    
+    sudo pip3 install face_recognition Scikit-learn dlib docopt
