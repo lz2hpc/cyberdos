@@ -18,3 +18,14 @@ https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick
 https://www.analyticsvidhya.com/blog/2018/08/a-simple-introduction-to-facial-recognition-with-python-codes/
 https://www.mygreatlearning.com/blog/facial-recognition-using-python/
 https://www.quora.com/How-can-I-match-two-images-faces-in-case-with-Python-Is-theresome-module-that-can-help-me-with-this
+
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server
+https://docs.python-guide.org/starting/install3/linux/
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
+
+
+    sudo apt update
+    sudo apt -y upgrade
+    python3 -V
+    sudo apt install -y python3-pip
+    sudo pip3 install cmake
